@@ -1,0 +1,1306 @@
+
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
+big data
+Search
+Login
+SignUp
+RELATED INDUSTRIES
+Information Technology & Services
+12
+Computer Software
+2
+Information Services
+1
+Internet
+1
+RELATED KEYWORDS
+data miningtext miningdeep learningaiartificial intelligencedata sciencedata scientiststatisticsdata analysisdata analyticsnatural language processingnlprneural networksclassificationregressioninformation retrievalpattern recognitioncloudSOAJavacanalyticsmachine learningdata warehousedata warehousingHadooppighiveIntegratAND BIBusiness IntelligenceBig DataMAPRMAPREDUCEHADOOPHIVESPARK5CBDMMMATURITY MODELIntegrateINTEGRATIONDATA QUALITYFLOWBig DataBigDataBIGDATAINFORMATIONCassandraElasticsearchElastic searchKakfaAPACHEKAFKALambdaBigdata
+BOOLEAN STRING RESULTS
+«
+<
+1
+2
+3
+>
+»
+Search Results..
+Description	String	Industry
+Data Scientist leads that have python	(“machine learning” AND “python” AND “algorithms” AND (“data mining” OR “text mining” OR “deep learning” OR “ai” OR “artificial intelligence” OR “data science” OR “data scientist” OR “statistics” OR “data analysis” OR “data analytics” OR “natural language processing” OR “nlp” OR “big data” OR “r” OR “neural networks” OR “classification” OR “regression” OR “nlp” OR “information retrieval” OR “pattern recognition”))
+Information Services
+Devops BIg Dat	(("devops" OR "site reliability" OR "sre" OR ("build" AND "release")) AND ("continuous integration" OR "continuous deployment" OR "chef" OR "nagios" OR "puppet" OR "jenkins" OR "docker" OR "rocket" OR "ansible" OR "fabric" OR "collectd" OR "collectl" OR "elk" OR "monit" OR "nginx" OR "nuget" OR "saltstack" OR "capistrano" OR "gradle" OR "zabbix" OR "splunk" OR "new relic")) AND ("big data" AND ("mapreduce" OR "hadoop" OR "spark") AND ("python" OR "java" OR "nosql" OR "hive" OR "pig" OR "machine learning" OR "sql" OR "scala" OR "mongodb" OR "cassandra" OR "hbase" OR "aws" OR "backend" OR "architecture" OR "mysql" OR "infrastructure" OR "redis" OR "distributed systems"))
+Computer Software
+Unix Systems Engineer	Infrastructure AND ("load balance" OR "load balancers" OR "load balancing" OR F5 OR A10) AND (Unix OR "flavors of linux") AND (cloud OR "big data" OR SOA OR Java OR c++)
+Computer Software
+Global, data-driven CMO, high-tech	(Marketing) (analytics OR ''data science'' OR ''big data'') (global OR International OR worldwide) (B2B OR B-to-B OR ''Business to Business'' OR Technology OR ''High Tech'') (Director OR VP OR CMO OR Chief)
+Information Technology & Services
+Data Engineer	"(("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala))"
+Information Technology & Services
+Sr. Data Engineer- New Technologie	("data engineer" OR "data analysis") AND ("data mining" OR "machine learning" OR "big data" OR "data science" OR "data scientist" OR "data warehouse" OR "data warehousing") AND (python OR sql OR r OR hadoop OR nosql OR etl OR analytics OR statistics OR java OR mysql OR databases OR aws OR scala) AND (tableau OR microstrategy OR OBIEE OR "business objects" OR cognos) AND ("SQL queries" OR "SQL query") AND (redshift OR Rubrik OR Flume OR Azure OR Exadata OR Snowflake OR bigquery) AND (Sr. OR Senior OR Sr)
+Information Technology & Services
+Development Manager	java AND Big data
+Internet
+Database Developer	(TSQL OR "T/SQL" OR “TRANSACT SQL” OR "T-SQL" OR "T – SQL") AND SQL AND (“DATAWAREHOUSE” OR“DATA WAREHOUSE” OR DWH OR DATAWAREHOUSING OR "DATA WAREHOUSING" OR ERWIN OR "ER STUDIO”) AND PERFORM AND SCHEMA AND ETL "data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence")
+Information Technology & Services
+data model	"data model*" AND Developer AND Erwin AND (“Big Data” OR Hadoop OR pig OR hive) AND SQL AND (ETL OR “Data Warehouse”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl OR Bash) AND IntegratAND (“BI” OR "Business Intelligence") “Big Data” AND Developer AND (SQL OR RDBMS OR Oracle) AND (ETL OR “Data Warehouse” OR “Data Warehousing”) AND (T-SQL OR “T SQL” OR “PL/SQL” OR “PL SQL”) AND (Python OR Shell OR Perl) AND Integrat AND (“BI” OR "Business Intelligence") "Data model*" and Erwin and (hadoop OR pig OR hive) AND (perl OR shell OR bash OR python) AND script
+Information Technology & Services
+Big Data	(“Big Data” OR MAPR OR MAPREDUCE OR HADOOP OR HIVE OR SPARK OR 5C OR BDMM OR “MATURITY MODEL”) AND DATA AND (SQL OR ETL OR “Data Warehouse” OR “T SQL” OR “PL/SQL” OR ORACLE) AND (Python OR Shell OR Perl) AND (Integrate OR INTEGRATION OR “DATA QUALITY” OR FLOW) (“Big Data” OR BigData OR Big-Data) AND Architect AND (MAPR OR Mapreduce OR Hadoop OR Hive OR Spark OR Pig) AND Warehouse And ("Data Model" OR Erwin) AND (Sql OR Etl OR “T Sql” OR “Pl/Sql” OR Oracle) AND (ETL OR “Data Warehousing” OR “Data Warehous”) AND (Python OR Shell OR Perl)
+Information Technology & Services
