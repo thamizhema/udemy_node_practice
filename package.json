@@ -20,7 +20,9 @@
   "homepage": "https://github.com/thamizhema/udemy_node_practice#readme",
   "dependencies": {
     "csv-parse": "^5.5.0",
-    "express": "^4.18.2",
+    "express": "^4.18.2"
+  },
+  "devDependencies": {
     "nodemon": "^3.0.1"
   }
 }

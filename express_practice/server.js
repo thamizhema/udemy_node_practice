@@ -5,17 +5,29 @@ const { friends } = require("./friends_data");
 const app = express();
 const PORT = 3000;
 
+app.use(express.json());
+
+// ! middelware
+app.use(function (req, res, next) {
+  console.log("before middleware");
+  next();
+  console.log("after middlwware");
+});
+
 // ! starting routes
 
 app.get("/", (req, res) => {
+  console.log(req.url);
   res.send("Welcome Node practice");
 });
 
 app.get("/friends", (req, res) => {
+  console.log(req.url);
   res.json(friends);
 });
 
 app.get("/friends/:friendId", (req, res) => {
+  console.log(req.url);
   const firendId = Number(req.params.friendId);
   const friend = friends[firendId];
   console.log(firendId);
